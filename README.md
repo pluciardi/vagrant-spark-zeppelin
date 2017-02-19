@@ -97,7 +97,7 @@ $ git branch
 Add a message between the following lines:
 
 <hr>
-PERSONAL MESSAGE
+J'suis un gars déter, je refais le TP depuis chez moi.
 <hr>
 
 With `$ git status` you can check the status of your Git repository.
